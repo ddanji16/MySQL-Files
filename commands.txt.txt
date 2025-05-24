@@ -1,0 +1,4 @@
+Hello world
+
+
+DELETE FORM  table_name WHERE id = 1; 
